@@ -1,0 +1,15 @@
+/Users/yellobunny/Projects/c_sharp/c_sharp/obj/Debug/net6.0/c_sharp.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/c_sharp/c_sharp/obj/Debug/net6.0/c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/c_sharp/c_sharp/obj/Debug/net6.0/c_sharp.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/c_sharp/c_sharp/obj/Debug/net6.0/c_sharp.AssemblyInfo.cs
+/Users/yellobunny/Projects/c_sharp/c_sharp/obj/Debug/net6.0/c_sharp.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/c_sharp/c_sharp/bin/Debug/net6.0/c_sharp
+/Users/yellobunny/Projects/c_sharp/c_sharp/bin/Debug/net6.0/c_sharp.deps.json
+/Users/yellobunny/Projects/c_sharp/c_sharp/bin/Debug/net6.0/c_sharp.runtimeconfig.json
+/Users/yellobunny/Projects/c_sharp/c_sharp/bin/Debug/net6.0/c_sharp.dll
+/Users/yellobunny/Projects/c_sharp/c_sharp/bin/Debug/net6.0/c_sharp.pdb
+/Users/yellobunny/Projects/c_sharp/c_sharp/obj/Debug/net6.0/c_sharp.dll
+/Users/yellobunny/Projects/c_sharp/c_sharp/obj/Debug/net6.0/refint/c_sharp.dll
+/Users/yellobunny/Projects/c_sharp/c_sharp/obj/Debug/net6.0/c_sharp.pdb
+/Users/yellobunny/Projects/c_sharp/c_sharp/obj/Debug/net6.0/c_sharp.genruntimeconfig.cache
+/Users/yellobunny/Projects/c_sharp/c_sharp/obj/Debug/net6.0/ref/c_sharp.dll
